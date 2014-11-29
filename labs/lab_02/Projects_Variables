@@ -1,0 +1,56 @@
+#ensure IDs are str
+_projectid                                771929 non-null object
+_teacher_acctid                           771929 non-null object
+_schoolid                                 771929 non-null object
+school_ncesid                             771929 non-null object
+
+#create heat map
+school_latitude                           771929 non-null float6
+school_longitude                          771929 non-null float64
+school_city                               771929 non-null object
+school_state                              771929 non-null object
+school_zip                                771929 non-null object
+school_metro                              676749 non-null object
+school_district                           771011 non-null object
+school_county                             771911 non-null object
+
+#convert to binary
+school_charter                            771929 non-null object
+school_magnet                             771929 non-null object
+school_year_round                         771929 non-null object
+school_nlns                               771929 non-null object
+school_kipp                               771929 non-null object
+school_charter_ready_promise              771929 non-null object
+
+#ensure all variables are correct
+#histogram of teacher, correlations between variables
+teacher_prefix                            771909 non-null object
+
+
+#update to binary
+teacher_teach_for_america                 771929 non-null object
+teacher_ny_teaching_fellow                771929 non-null object
+
+primary_focus_subject                     771887 non-null object
+primary_focus_area                        771887 non-null object
+secondary_focus_subject                   533674 non-null object
+secondary_focus_area                      533674 non-null object
+resource_type                             771881 non-null object
+poverty_level                             771929 non-null object
+grade_level                               771896 non-null object
+vendor_shipping_charges                   736847 non-null float64
+sales_tax                                 736847 non-null float64
+payment_processing_charges                736847 non-null float64
+fulfillment_labor_materials               736847 non-null float64
+total_price_excluding_optional_support    771929 non-null float64
+total_price_including_optional_support    771929 non-null float64
+students_reached                          771779 non-null float64
+total_donations                           771929 non-null float64
+num_donors                                771929 non-null int64
+eligible_double_your_impact_match         771929 non-null object
+eligible_almost_home_match                771929 non-null object
+funding_status                            771929 non-null object
+date_posted                               771929 non-null object
+date_completed                            518711 non-null object
+date_thank_you_packet_mailed              466925 non-null object
+date_expiration                           771721 non-null object
