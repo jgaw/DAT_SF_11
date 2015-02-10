@@ -7,8 +7,12 @@
 *Copy0.ipynb
 .ipynb_checkpoints
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 55443d937c6eb0b48c549136a70c904d559278e0
 =======
 *.pkl
 *.npy
 >>>>>>> 23b974ef86d8eb528cac855cb96341f6e48d52e1
+=======
+*.npy
+>>>>>>> 519d06560e4de739905aa9647373e6d29f9351aa
